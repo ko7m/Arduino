@@ -11,5 +11,6 @@ at ko7m at arrl dot net and I will do my best to assist you.
 Project list:
 
  - NTPClock - A simple time server synchronized Arduino clock
-
+ - i2cscanner - Utility to show i2c devices attached to the i2c bus.
+ - i2cscan    - A modification to scan all devices behind a PCA9546 i2c multiplexer
 
