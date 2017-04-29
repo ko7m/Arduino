@@ -10,7 +10,8 @@ at ko7m at arrl dot net and I will do my best to assist you.
 
 Project list:
 
- - NTPClock - A simple time server synchronized Arduino clock
- - i2cscanner - Utility to show i2c devices attached to the i2c bus.
- - i2cscan    - A modification to scan all devices behind a PCA9546 i2c multiplexer
+ - Ascii         - Utility to output ASCII table to serial port
+ - i2cscanner    - Utility to show i2c devices attached to the i2c bus.
+ - i2cscan       - A modification of i2cscanner to scan all devices behind a PCA9546 i2c multiplexer
+ - NTPClock      - A simple time server synchronized Arduino clock
  - PSK31Keyboard - Arduino Due-based PSK31 keyboard based on DDS techniques.
