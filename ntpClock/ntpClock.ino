@@ -5,6 +5,10 @@
 // The local time zone can be changed by changing localTimeZoneOffset to the appropriate value to be added to
 // UTC time.
 //
+// You may also read about this project on my blog at:
+//
+// http://ko7m.blogspot.com/2017/04/a-silly-little-project.html
+//
 // Jeff Whitlatch - ko7m
 // 23 Mar 2017
 
