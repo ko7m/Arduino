@@ -53,6 +53,7 @@ void setup() {
   Serial.println("*** MicroMaxChess ***");
   lastH[0] = 0;
   serialBoard();
+  while(true);
 }
 
 void loop() {
